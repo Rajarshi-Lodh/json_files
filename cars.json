@@ -17,6 +17,48 @@
     "name":"Bugatti",
     "desc":"Bugatti is a great super fast car",
     "imgLink":"https://raw.githubusercontent.com/Rajarshi-Lodh/AndroidStudio-RecyclerViewDemo-CarsImage/main/bugatti.jpg"
+  },
+  {
+    "id":4,
+    "name":"Ferrari",
+    "desc":"Ferrari is a great super fast car",
+    "imgLink":"https://raw.githubusercontent.com/Rajarshi-Lodh/AndroidStudio-RecyclerViewDemo-CarsImage/main/ferrari.jpg"
+  },
+  {
+    "id":5,
+    "name":"Lamborghini",
+    "desc":"Lamborghini is a great super fast car",
+    "imgLink":"https://raw.githubusercontent.com/Rajarshi-Lodh/AndroidStudio-RecyclerViewDemo-CarsImage/main/lamborghini.jpg"
+  },
+  {
+    "id":6,
+    "name":"Mercedes",
+    "desc":"Mercedes is a great super fast car",
+    "imgLink":"https://raw.githubusercontent.com/Rajarshi-Lodh/AndroidStudio-RecyclerViewDemo-CarsImage/main/mercedes.jpg"
+  },
+  {
+    "id":7,
+    "name":"Mustang",
+    "desc":"Mustang is a great super fast car",
+    "imgLink":"https://raw.githubusercontent.com/Rajarshi-Lodh/AndroidStudio-RecyclerViewDemo-CarsImage/main/mustang.jpg"
+  },
+  {
+    "id":8,
+    "name":"Ford",
+    "desc":"Ford is a great super fast car",
+    "imgLink":"https://raw.githubusercontent.com/Rajarshi-Lodh/AndroidStudio-RecyclerViewDemo-CarsImage/main/ford.jpg"
+  },
+   {
+    "id":9,
+    "name":"Jaguar",
+    "desc":"Jaguar is a great super fast car",
+    "imgLink":"https://raw.githubusercontent.com/Rajarshi-Lodh/AndroidStudio-RecyclerViewDemo-CarsImage/main/jaguar.jpg"
+  },
+  {
+    "id":10,
+    "name":"Tesla",
+    "desc":"Tesla is a great super fast car",
+    "imgLink":"https://raw.githubusercontent.com/Rajarshi-Lodh/AndroidStudio-RecyclerViewDemo-CarsImage/main/tesla.jpg"
   }
  ]
 }
