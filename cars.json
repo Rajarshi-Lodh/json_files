@@ -1,0 +1,20 @@
+[
+  {
+    "id":1,
+    "name":"Audi",
+    "desc":"Audi is a great super fast car",
+    "imgLink":"https://raw.githubusercontent.com/Rajarshi-Lodh/AndroidStudio-RecyclerViewDemo-CarsImage/main/audi.jpg"
+  },
+  {
+    "id":2,
+    "name":"BMW",
+    "desc":"BMW is a great super fast car",
+    "imgLink":"https://raw.githubusercontent.com/Rajarshi-Lodh/AndroidStudio-RecyclerViewDemo-CarsImage/main/bmw.jpg"
+  },
+  {
+    "id":3,
+    "name":"Bugatti",
+    "desc":"Bugatti is a great super fast car",
+    "imgLink":"https://raw.githubusercontent.com/Rajarshi-Lodh/AndroidStudio-RecyclerViewDemo-CarsImage/main/bugatti.jpg"
+  }
+]
