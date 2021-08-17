@@ -1,4 +1,5 @@
-"carData":[
+{
+ "carData":[
   {
     "id":1,
     "name":"Audi",
@@ -17,4 +18,5 @@
     "desc":"Bugatti is a great super fast car",
     "imgLink":"https://raw.githubusercontent.com/Rajarshi-Lodh/AndroidStudio-RecyclerViewDemo-CarsImage/main/bugatti.jpg"
   }
-]
+ ]
+}
