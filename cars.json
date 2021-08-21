@@ -1,70 +1,70 @@
 {
  "carData":[
   {
-    "id":1,
+    "id":"1",
     "name":"Audi",
     "desc":"Audi is a great super fast car",
     "imgLink":"https://raw.githubusercontent.com/Rajarshi-Lodh/AndroidStudio-RecyclerViewDemo-CarsImage/main/audi.jpg",
     "fullDesc":"Audi is one of the best-selling luxury automobile manufacturers in the world. However, the origins of the German brand are complex and colourful, to say the least.Behind the name of every car company, there’s a story. Sometimes it’s as simple as the name of the family who founded it (Bentley, for example), sometimes it’s an acronym for a phrase people don’t seem to remember. The story behind Audi, however, is that little bit more interesting. OSV takes a look at the rich history of the German brand in our Audi history. Audi was technically founded way back in 1885 when the Wanderer Company was established, later becoming a branch of Audi.But it was in 1899 that August Horch established A. Horch & Cie in Cologne, then went on to form the August Horch & Cie. Motowagenwerke AG in 1904.However, this didn’t last for very long and Horch left Motowagenwerke in 1909, founding his own company August Horch Authomobilewerke GmbH. You may have noticed that all these company names sound very similar because his old company definitely did. They sued Horch for trademark infringement and the Supreme Court agreed. Horch then had to come up with a new name for his company. So, how did he get to Audi? Well, Horch in Latin is Audi, which means ‘to listen’. And thus, Audi was born. In April 1910 Audi Automobilwerke GmbH Zwickau was officially created."
   },
   {
-    "id":2,
+    "id":"2",
     "name":"BMW",
     "desc":"BMW is a great super fast car",
     "imgLink":"https://raw.githubusercontent.com/Rajarshi-Lodh/AndroidStudio-RecyclerViewDemo-CarsImage/main/bmw.jpg",
     "fullDesc":"Bayerische Motoren Werke AG, commonly known as Bavarian Motor Works, BMW or BMW AG, is a German automobile, motorcycle and engine manufacturing company founded in 1916.BMW is headquartered in Munich, Bavaria. It also owns and produces Mini cars, and is the parent company of Rolls-Royce Motor Cars. BMW produces motorcycles under BMW Motorrad. In 2012, the BMW Group produced 1,845,186 automobiles and 117,109 motorcycles across all of its brands. BMW is part of the “German Big 3” luxury automakers, along with Audi and Mercedes-Benz, which are the three best-selling luxury automakers in the world. BMW was established as a business entity following a restructuring of the Rapp Motorenwerke aircraft manufacturing firm in 1917. After the end of World War I in 1918, BMW was forced to cease aircraft-engine production by the terms of the Versailles Armistice Treaty. The company consequently shifted to motorcycle production in 1923, once the restrictions of the treaty started to be lifted, followed by automobiles in 1928–29.The first car which BMW successfully produced and the car which launched BMW on the road to automobile production was the Dixi, it was based on the Austin 7 and licensed from the Austin Motor Company in Birmingham, England."
   },
   {
-    "id":3,
+    "id":"3",
     "name":"Bugatti",
     "desc":"Bugatti is a great super fast car",
     "imgLink":"https://raw.githubusercontent.com/Rajarshi-Lodh/AndroidStudio-RecyclerViewDemo-CarsImage/main/bugatti.jpg",
     "fullDesc":"Full Description is coming soon"
   },
   {
-    "id":4,
+    "id":"4",
     "name":"Ferrari",
     "desc":"Ferrari is a great super fast car",
     "imgLink":"https://raw.githubusercontent.com/Rajarshi-Lodh/AndroidStudio-RecyclerViewDemo-CarsImage/main/ferrari.jpg",
     "fullDesc":"Full Description is coming soon"
   },
   {
-    "id":5,
+    "id":"5",
     "name":"Lamborghini",
     "desc":"Lamborghini is a great super fast car",
     "imgLink":"https://raw.githubusercontent.com/Rajarshi-Lodh/AndroidStudio-RecyclerViewDemo-CarsImage/main/lamborghini.jpg",
     "fullDesc":"Full Description is coming soon"
   },
   {
-    "id":6,
+    "id":"6",
     "name":"Mercedes",
     "desc":"Mercedes is a great super fast car",
     "imgLink":"https://raw.githubusercontent.com/Rajarshi-Lodh/AndroidStudio-RecyclerViewDemo-CarsImage/main/mercedes.jpg",
     "fullDesc":"Full Description is coming soon"
   },
   {
-    "id":7,
+    "id":"7",
     "name":"Mustang",
     "desc":"Mustang is a great super fast car",
     "imgLink":"https://raw.githubusercontent.com/Rajarshi-Lodh/AndroidStudio-RecyclerViewDemo-CarsImage/main/mustang.jpg",
     "fullDesc":"Full Description is coming soon"
   },
   {
-    "id":8,
+    "id":"8",
     "name":"Ford",
     "desc":"Ford is a great super fast car",
     "imgLink":"https://raw.githubusercontent.com/Rajarshi-Lodh/AndroidStudio-RecyclerViewDemo-CarsImage/main/ford.jpg",
     "fullDesc":"Full Description is coming soon"
   },
    {
-    "id":9,
+    "id":"9",
     "name":"Jaguar",
     "desc":"Jaguar is a great super fast car",
     "imgLink":"https://raw.githubusercontent.com/Rajarshi-Lodh/AndroidStudio-RecyclerViewDemo-CarsImage/main/jaguar.jpg",
     "fullDesc":"Full Description is coming soon"
   },
   {
-    "id":10,
+    "id":"10",
     "name":"Tesla",
     "desc":"Tesla is a great super fast car",
     "imgLink":"https://raw.githubusercontent.com/Rajarshi-Lodh/AndroidStudio-RecyclerViewDemo-CarsImage/main/tesla.jpg",
