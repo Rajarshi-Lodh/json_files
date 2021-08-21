@@ -1,0 +1,9 @@
+{
+  "carData": {
+    "id":"1",
+    "name":"Audi",
+    "desc":"Audi is a great super fast car",
+    "imgLink":"https://raw.githubusercontent.com/Rajarshi-Lodh/AndroidStudio-RecyclerViewDemo-CarsImage/main/audi.jpg",
+    "fullDesc":"Audi is one of the best-selling luxury automobile manufacturers in the world. However, the origins of the German brand are complex and colourful, to say the least.Behind the name of every car company, there’s a story. Sometimes it’s as simple as the name of the family who founded it (Bentley, for example), sometimes it’s an acronym for a phrase people don’t seem to remember. The story behind Audi, however, is that little bit more interesting. OSV takes a look at the rich history of the German brand in our Audi history. Audi was technically founded way back in 1885 when the Wanderer Company was established, later becoming a branch of Audi.But it was in 1899 that August Horch established A. Horch & Cie in Cologne, then went on to form the August Horch & Cie. Motowagenwerke AG in 1904.However, this didn’t last for very long and Horch left Motowagenwerke in 1909, founding his own company August Horch Authomobilewerke GmbH. You may have noticed that all these company names sound very similar because his old company definitely did. They sued Horch for trademark infringement and the Supreme Court agreed. Horch then had to come up with a new name for his company. So, how did he get to Audi? Well, Horch in Latin is Audi, which means ‘to listen’. And thus, Audi was born. In April 1910 Audi Automobilwerke GmbH Zwickau was officially created."
+  }
+}
