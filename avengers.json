@@ -1,0 +1,40 @@
+{
+"avengersData":[
+  {
+  "id":"1",
+  "name":"Ironman",
+  "desc":"Genius Billionaire, Playboy Philanthropist",
+  "imglink":"https://raw.githubusercontent.com/Rajarshi-Lodh/Avengers_images/main/ironman.jpg"
+  },
+  {
+  "id":"2",
+  "name":"Captain America",
+  "desc":"American Super Soldier",
+  "imglink":"https://raw.githubusercontent.com/Rajarshi-Lodh/Avengers_images/main/captain_america.jpg"
+  },
+  {
+  "id":"3",
+  "name":"Thor",
+  "desc":"God of Thunder",
+  "imglink":"https://raw.githubusercontent.com/Rajarshi-Lodh/Avengers_images/main/thor.jpg"
+  },
+  {
+  "id":"4",
+  "name":"Hulk",
+  "desc":"Green Giant",
+  "imglink":"https://raw.githubusercontent.com/Rajarshi-Lodh/Avengers_images/main/hulk.jpg"
+  },
+  {
+  "id":"5",
+  "name":"Black Widow",
+  "desc":"Secret Agent and spy",
+  "imglink":"https://raw.githubusercontent.com/Rajarshi-Lodh/Avengers_images/main/black_widow.jpg"
+  },
+  {
+  "id":"6",
+  "name":"Hawkeye",
+  "desc":"Secret agent, Bow-Arrow man",
+  "imglink":"https://raw.githubusercontent.com/Rajarshi-Lodh/Avengers_images/main/hawkeye.jpg"
+  }
+]
+}
